@@ -1,0 +1,56 @@
+
+
+h1{
+    margin-top: 2rem;
+    font-size: 1.5rem;
+    color: balck;
+    font-family: 'Press Start 2P', cursive;
+}
+
+.row{
+    margin-top: 5rem;
+}
+
+input{
+    width:6rem;
+}
+
+.playerScoreDiv, .compScoreDiv{
+    font-size: 1.5rem;
+    font-family: Orbitron
+}
+
+.winner{
+    font-family: 'Press Start 2P', cursive;
+    margin-top: 3.5rem;
+}
+
+.winnerText{
+    color: green;
+}
+
+.loserText{
+    color: red;
+}
+
+p{
+    font-family: Orbitron
+}
+
+.first5{
+    font-size: 1.5rem;
+    font-family: cursive
+}
+
+.moveup:hover {
+    transform: translate(0,-0.5rem);
+  }
+
+  .imgSize{
+      width: 2rem;
+      margin-top: -5rem;
+  }
+  
+  h2{
+      font-size: 20px;
+  }
